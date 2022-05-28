@@ -1,3 +1,6 @@
+problems and solutions from https://8weeksqlchallenge.com/
+
+
 creating main branch
 # steps for loading sql extension in jupyter notebook
 # !pip install ipython-sql
